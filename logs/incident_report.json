@@ -1,0 +1,11 @@
+[
+  {
+    "code": "SV-INC-2026-60959",
+    "severity": "HIGH",
+    "threat_type": "BRUTE_FORCE",
+    "status": "OPEN",
+    "summary": "Automated Brute Force detected on card ending in 4826 at terminal SV-ATM-CHE-101. 5 consecutive failed PIN attempts.",
+    "created_at": "2026-10-01T04:32:42.249517",
+    "is_simulated": true
+  }
+]

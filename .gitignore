@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment files
+.env
+.env.local
+
+# Databases & local logs
+*.db
+*.db-shm
+*.db-wal
+*.db.bak
+logs/*.log
+logs/*.jsonl
+
+# Seed Credentials (Security Requirement: Demo only, never commit plaintext credentials)
+backend/data/DEMO_CREDENTIALS.md
+
+# Frontend
+node_modules/
+dist/
+.vite/
+
+# Shell wrappers
+powershell.cmd
+**/powershell.cmd
